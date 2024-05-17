@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <None Update="Pages\BooleanValueSync.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CharacterString.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CI_Citation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CI_Contact.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CI_OnlineResource.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CI_PresentationForm.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CI_PresentationFormCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CI_ResponsibleParty.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CI_ResponsiblePartyReadOnly.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ConstraintTypes.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ContactManager.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ContentInformation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CountryCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CustomPage.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DataQuality.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DatasetCitation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DistributionInfo.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DQ_ConformanceResult.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DQ_DataQuality.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DQ_Element.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DQ_QuantitativeResult.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DS_AssociationTypeCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\DS_InitiativeTypeCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EditorRichTextBox.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EntityAttribute.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EntityAttributeCodesetDomain.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EntityAttributeDetails.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EntityAttributeEnumDomValues.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EntityAttributeInfo.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EntityAttributeOverview.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EntityAttributeRangeDomain.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EX_Extent.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EX_GeographicBoundingBox.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EX_GeographicDescription.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\EX_VerticalExtent.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\GenericName.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\GeoprocessingHistory.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\GML_Point.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\GPCustomTool.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ImageAttachement.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\INSPIRE_AccessConstraint.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\INSPIRE_LegalConstraints.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\INSPIRE_UseLimitation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ItemInfo.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\Keywords.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\LanguageCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\LI_Lineage.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\LI_ProcessStep.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\LI_Source.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\Locale.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\Locales.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_AggregateInformation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ApplicationSchemaInformation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Band.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_BrowseGraphic.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_CharacterSetCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ClassificationCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Constraints.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_CoverageDescription.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_CoverageDescriptionBase.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_DigitalTransferOptions.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Dimension.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Distribution.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Distributor.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_FeatureCatalogueDescription.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_FileIdentifier.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Format.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Georectified.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Georeferenceable.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_GridSpatialRepresentation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_GridSpatialRepresentationBase.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Identifier.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ImageDescription.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Keywords.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_LegalConstraints.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_MaintenanceInformation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Medium.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_MediumFormatCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ProgressCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_RangeDimension.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ReferenceSystem.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Resolution.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_RestrictionCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ScopeCode.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ScopeCode_MD_Metadata.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ScopeDescription.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_SecurityConstraints.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_StandardOrderProcess.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_ThemeKeywords.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_Usage.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MD_VectorSpatialRepresentation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MetadataConstraints.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MetadataContacts.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MetadataDetails.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\MetadataMaintenance.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\PartyPickerControl.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\References.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ReferenceSystem.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ResourceCitationContacts.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ResourceConstraints.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ResourceDetails.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ResourceExtent.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ResourceMaintenance.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ResourcePoc.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\RS_Identifier.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\Services.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\SpatialRepresentation.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\SV_CoupledResource.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\TM_Period.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\UCUM.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\UCUM_Length.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\ValueUoM.xaml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
