@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Quick_Test_Delete_Me": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\ArcGIS\\Pro\\bin\\ArcGISPro.exe"
+    }
+  }
+}
